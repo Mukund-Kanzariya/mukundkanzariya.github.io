@@ -1,16 +1,99 @@
-# React + Vite
+# Mukund Kanzariya - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This is my personal portfolio website showcasing my skills, projects, education, and professional experience as a Full Stack Developer. The website is designed with a modern and responsive user interface to provide visitors with an engaging experience across desktop, tablet, and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* Responsive Design
+* Modern UI/UX
+* Project Showcase
+* Skills Section
+* Resume Download
+* Contact Information
+* Fast Loading Performance
+* Mobile-Friendly Layout
+* Built with React and Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+### Frontend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Vite
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+### Development Tools
+
+* Git
+* GitHub
+* VS Code
+
+## Project Structure
+
+```text
+client/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   └── index.css
+├── package.json
+├── vite.config.js
+└── index.html
+```
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Mukund-Kanzariya/mukundkanzariya.github.io.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd client
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## Deployment
+
+This portfolio is deployed using GitHub Pages.
+
+## About Me
+
+I am Mukund Kanzariya, a Full Stack Developer pursuing MCA with a strong interest in Web Development, Cloud Computing, DevOps, CI/CD Pipelines, Docker, Azure, and Software Engineering. I enjoy building scalable applications and continuously learning new technologies.
+
+## Contact
+
+* GitHub: https://github.com/Mukund-Kanzariya
+* LinkedIn: Add your LinkedIn profile link
+* Email: Add your professional email
+
+## License
+
+This project is open-source and available for educational and personal use.
